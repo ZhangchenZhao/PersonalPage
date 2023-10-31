@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "JAGs"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<zczhao@umich.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/ZhangchenZhao/
+output:
+  html_document:
+    theme: cerulean
